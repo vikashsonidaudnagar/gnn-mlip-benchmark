@@ -1,0 +1,6 @@
+# Install PyTorch (with CUDA) first, from https://pytorch.org
+torch_geometric>=2.5
+ase>=3.22
+numpy
+matplotlib
+sympy

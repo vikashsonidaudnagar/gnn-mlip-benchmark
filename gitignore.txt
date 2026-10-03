@@ -1,0 +1,23 @@
+# ---- training outputs (large; share trained models via Zenodo instead) ----
+checkpoints/
+mace_runs/
+chgnet_runs/
+results_v1/
+
+# ---- generated files (recreated by the scripts) ----
+figures/
+xyz/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- data (download from github.com/materialsvirtuallab/mlearn) ----
+mlearn-master/
+data/
+
+# ---- editors / OS ----
+.vscode/
+.ipynb_checkpoints/
+Thumbs.db
+desktop.ini
